@@ -1,0 +1,299 @@
+Enter Total Number of Process:
+Enter Burst Time and Priority
+
+P[1]
+Burst Time:Priority:
+P[2]
+Burst Time:Priority:
+P[3]
+Burst Time:Priority:
+P[4]
+Burst Time:Priority:
+P[5]
+Burst Time:Priority:
+P[6]
+Burst Time:Priority:
+P[7]
+Burst Time:Priority:
+P[8]
+Burst Time:Priority:
+P[9]
+Burst Time:Priority:
+P[10]
+Burst Time:Priority:
+P[11]
+Burst Time:Priority:
+P[12]
+Burst Time:Priority:
+P[13]
+Burst Time:Priority:
+P[14]
+Burst Time:Priority:
+P[15]
+Burst Time:Priority:
+P[16]
+Burst Time:Priority:
+P[17]
+Burst Time:Priority:
+P[18]
+Burst Time:Priority:
+P[19]
+Burst Time:Priority:
+P[20]
+Burst Time:Priority:
+P[21]
+Burst Time:Priority:
+P[22]
+Burst Time:Priority:
+P[23]
+Burst Time:Priority:
+P[24]
+Burst Time:Priority:
+P[25]
+Burst Time:Priority:
+P[26]
+Burst Time:Priority:
+P[27]
+Burst Time:Priority:
+P[28]
+Burst Time:Priority:
+P[29]
+Burst Time:Priority:
+P[30]
+Burst Time:Priority:
+P[31]
+Burst Time:Priority:
+P[32]
+Burst Time:Priority:
+P[33]
+Burst Time:Priority:
+P[34]
+Burst Time:Priority:
+P[35]
+Burst Time:Priority:
+P[36]
+Burst Time:Priority:
+P[37]
+Burst Time:Priority:
+P[38]
+Burst Time:Priority:
+P[39]
+Burst Time:Priority:
+P[40]
+Burst Time:Priority:
+P[41]
+Burst Time:Priority:
+P[42]
+Burst Time:Priority:
+P[43]
+Burst Time:Priority:
+P[44]
+Burst Time:Priority:
+P[45]
+Burst Time:Priority:
+P[46]
+Burst Time:Priority:
+P[47]
+Burst Time:Priority:
+P[48]
+Burst Time:Priority:
+P[49]
+Burst Time:Priority:
+P[50]
+Burst Time:Priority:
+P[51]
+Burst Time:Priority:
+P[52]
+Burst Time:Priority:
+P[53]
+Burst Time:Priority:
+P[54]
+Burst Time:Priority:
+P[55]
+Burst Time:Priority:
+P[56]
+Burst Time:Priority:
+P[57]
+Burst Time:Priority:
+P[58]
+Burst Time:Priority:
+P[59]
+Burst Time:Priority:
+P[60]
+Burst Time:Priority:
+P[61]
+Burst Time:Priority:
+P[62]
+Burst Time:Priority:
+P[63]
+Burst Time:Priority:
+P[64]
+Burst Time:Priority:
+P[65]
+Burst Time:Priority:
+P[66]
+Burst Time:Priority:
+P[67]
+Burst Time:Priority:
+P[68]
+Burst Time:Priority:
+P[69]
+Burst Time:Priority:
+P[70]
+Burst Time:Priority:
+P[71]
+Burst Time:Priority:
+P[72]
+Burst Time:Priority:
+P[73]
+Burst Time:Priority:
+P[74]
+Burst Time:Priority:
+P[75]
+Burst Time:Priority:
+P[76]
+Burst Time:Priority:
+P[77]
+Burst Time:Priority:
+P[78]
+Burst Time:Priority:
+P[79]
+Burst Time:Priority:
+P[80]
+Burst Time:Priority:
+P[81]
+Burst Time:Priority:
+P[82]
+Burst Time:Priority:
+P[83]
+Burst Time:Priority:
+P[84]
+Burst Time:Priority:
+P[85]
+Burst Time:Priority:
+P[86]
+Burst Time:Priority:
+P[87]
+Burst Time:Priority:
+P[88]
+Burst Time:Priority:
+P[89]
+Burst Time:Priority:
+P[90]
+Burst Time:Priority:
+P[91]
+Burst Time:Priority:
+P[92]
+Burst Time:Priority:
+P[93]
+Burst Time:Priority:
+P[94]
+Burst Time:Priority:
+P[95]
+Burst Time:Priority:
+P[96]
+Burst Time:Priority:
+P[97]
+Burst Time:Priority:
+P[98]
+Burst Time:Priority:
+P[99]
+Burst Time:Priority:
+P[100]
+Burst Time:Priority:
+P[101]
+Burst Time:Priority:
+P[102]
+Burst Time:Priority:
+P[103]
+Burst Time:Priority:
+P[104]
+Burst Time:Priority:
+P[105]
+Burst Time:Priority:
+P[106]
+Burst Time:Priority:
+P[107]
+Burst Time:Priority:
+P[108]
+Burst Time:Priority:
+P[109]
+Burst Time:Priority:
+P[110]
+Burst Time:Priority:
+P[111]
+Burst Time:Priority:
+P[112]
+Burst Time:Priority:
+P[113]
+Burst Time:Priority:
+P[114]
+Burst Time:Priority:
+P[115]
+Burst Time:Priority:
+P[116]
+Burst Time:Priority:
+P[117]
+Burst Time:Priority:
+P[118]
+Burst Time:Priority:
+P[119]
+Burst Time:Priority:
+P[120]
+Burst Time:Priority:
+P[121]
+Burst Time:Priority:
+P[122]
+Burst Time:Priority:
+P[123]
+Burst Time:Priority:
+P[124]
+Burst Time:Priority:
+P[125]
+Burst Time:Priority:
+P[126]
+Burst Time:Priority:
+P[127]
+Burst Time:Priority:
+P[128]
+Burst Time:Priority:
+P[129]
+Burst Time:Priority:
+P[130]
+Burst Time:Priority:
+P[131]
+Burst Time:Priority:
+P[132]
+Burst Time:Priority:
+P[133]
+Burst Time:Priority:
+P[134]
+Burst Time:Priority:
+P[135]
+Burst Time:Priority:
+P[136]
+Burst Time:Priority:
+P[137]
+Burst Time:Priority:
+P[138]
+Burst Time:Priority:
+P[139]
+Burst Time:Priority:
+P[140]
+Burst Time:Priority:
+P[141]
+Burst Time:Priority:
+P[142]
+Burst Time:Priority:
+P[143]
+Burst Time:Priority:
+P[144]
+Burst Time:Priority:
+P[145]
+Burst Time:Priority:
+P[146]
+Burst Time:Priority:
+P[147]
+Burst Time:Priority:
+P[148]
+Burst Time:Priority
